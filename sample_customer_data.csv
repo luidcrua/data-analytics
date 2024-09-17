@@ -1,0 +1,6 @@
+CustomerID,Name,Age,Income,Purchases,LastPurchaseDate,City
+1,Alice,30.0,55000,5.0,2022-01-15,New York
+2,Bob,,48500,2.0,,Los Angeles
+3,Charlie,150.0,-,0.0,2021-12-01,San Francisco
+4,Daisy,29.0,70000,10.0,2022-07-25,New York
+5,Eve,42.0,?,,2022-04-14,Boston
